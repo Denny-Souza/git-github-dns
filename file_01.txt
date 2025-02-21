@@ -16,3 +16,4 @@ git checkout id		-> change the branch
 git merge id		-> merge the branchs
 git branch -D id	-> delete the desired branch
 git clone linkGit	-> clone the repository to the local area
+git push origin "branch"-> push the repository and desired branch to github
