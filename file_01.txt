@@ -1,19 +1,19 @@
 My badass file
 
-pwd 			-> show the current directory
-ls 			-> list the files on current directory
-cd <local> 		-> move to another directory
-git init. 		-> create a new git repository
-git status 		-> show the current branch status
-git add <file> 	-> add the file to stage
-git commit -m "title"-> make a "checkpoint"
-git log			-> shows git history
-git reset		-> unstage the repository
-git reset idCommit	-> unstage the commit
-git branch		-> shows the current branch
-git branch newID	-> create a new branch
-git checkout id		-> change the branch
-git merge id		-> merge the branchs
-git branch -D id	-> delete the desired branch
-git clone linkGit	-> clone the repository to the local area
+pwd 					-> show the current directory
+ls 						-> list the files on current directory
+cd <local> 				-> move to another directory
+git init. 				-> create a new git repository
+git status 				-> show the current branch status
+git add <file> 			-> add the file to stage
+git commit -m "title"	-> make a "checkpoint"
+git log					-> shows git history
+git reset				-> unstage the repository
+git reset idCommit		-> unstage the commit
+git branch				-> shows the current branch
+git branch newID		-> create a new branch
+git checkout id			-> change the branch
+git merge id			-> merge the branchs
+git branch -D id		-> delete the desired branch
+git clone linkGit		-> clone the repository to the local area
 git push origin "branch"-> push the repository and desired branch to github
